@@ -1,4 +1,4 @@
-name = "web"
-account_id = "2575000dd90a08dbbeb2b8cca2e64775" # scraper.workers.dev
+name = "Swiftdial"
+account_id = "71982e6c1d46e629d971422dfe8ef8a0" # scraper.workers.dev
 type = "webpack"
 workers_dev = true
